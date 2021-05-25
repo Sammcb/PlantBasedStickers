@@ -278,6 +278,7 @@
 				DEVELOPMENT_TEAM = J8P6BA4WGF;
 				INFOPLIST_FILE = "PlantBasedStickers StickerPackExtension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MARKETING_VERSION = 1.1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.sammcb.PlantBasedStickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -293,6 +294,7 @@
 				DEVELOPMENT_TEAM = J8P6BA4WGF;
 				INFOPLIST_FILE = "PlantBasedStickers StickerPackExtension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MARKETING_VERSION = 1.1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.sammcb.PlantBasedStickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
